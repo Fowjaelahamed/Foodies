@@ -113,3 +113,17 @@ footer{
     background-color: #0b0e17;
     margin: 0%;
 }
+.newbox{
+    text-align: center;
+    width: 90%;
+    margin: 5%;
+    box-shadow: 5px 5px 15px lightslategray;
+    border-radius: 30px;
+}
+.margin{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.margin h2{
+    color: black;
+}
