@@ -1,3 +1,87 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 80px;
+    color:gray;
+}
+h2{
+    font-size: 50px;
+    color: gray;
+}
+
+.single-color{
+    color: lightseagreen;
+}
+.container{
+    display: flex;
+    margin-top: 5%;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    margin-bottom: 60px;
+}
+.half-width img{
+    width: 110%;
+}
+#ptitle{
+    color: dimgray;
+    font-size: 25px;
+    font-weight: 400;
+}
+#anotherp{
+    font-size: 25px;
+    font-weight: lighter;
+}
+#image-size{
+    padding-left: 30%;
+    width: 50%;
+}
+.btn-design{
+    text-decoration:none;
+    background-image: linear-gradient(orange,darkred);
+    padding: 20px 30px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+.about-banner{
+    background-image: url(images/shapes/Frame56.jpg);
+    
+}
+.popular{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.recipe{
+    border: 7px;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 30px;
+    box-shadow: 7px 7px 15px lightsteelblue;
+}
+.recipe img{
+    padding: 5%;
+    width: 90%;
+    border: 1px transparent;
+    border-radius: 30px;
+}
+.left{
+    text-align: left;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 5%;
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: darkgray;
+    background-color: #0b0e17;
+    margin: 0%;
 }
